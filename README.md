@@ -26,6 +26,7 @@ This project implements an **image search engine using a fine-tuned [CLIP](https
 
 ---
 Sample search using CLIP embeddings:
-<img width="3600" height="1200" alt="results_Sport shoes" src="https://github.com/user-attachments/assets/06343260-c056-4700-9009-0982611ab0d5" />
 
-<img width="3600" height="1200" alt="results_Men Jeans" src="https://github.com/user-attachments/assets/5f24118a-cc6b-4c0a-8167-04511eb4b672" />
+<img width="3600" height="2400" alt="results_bollywood style outfits" src="https://github.com/user-attachments/assets/eedee537-19af-44e1-948a-7299722966a3" />
+
+<img width="3600" height="1200" alt="results_Sport shoes" src="https://github.com/user-attachments/assets/06343260-c056-4700-9009-0982611ab0d5" />

@@ -5,6 +5,16 @@
 This project implements an **image search engine using a fine-tuned [CLIP](https://openai.com/research/clip)** model. It allows users to **upload an image** or enter a **text query** and retrieves the **most relevant images** using cosine similarity between query and image embeddings.
 
 ---
+### Problem Statement
+
+- Traditional e-commerce search systems rely heavily on keyword matching and manually tagged metadata, which works poorly for fashion discovery.
+- Fashion search is visual and intent-driven, but users often cannot describe what they want using precise keywords.
+- Vague and aspirational queries such as “Bollywood-style outfit”, “cozy winter look”, or “something like this screenshot” are common and frequently fail in text-only search pipelines.
+- Product descriptions are often incomplete, inconsistent, or misaligned with how users express visual intent.
+
+---
+
+---
 
 ## Features
 

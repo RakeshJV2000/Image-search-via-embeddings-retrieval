@@ -2,6 +2,8 @@
 
 ## CLIP-Based Image Search (Fine-tuned with Custom Descriptions)
 
+Image to Image search and Text to Image search
+
 This project implements an **image search engine using a fine-tuned [CLIP](https://openai.com/research/clip)** model. It allows users to **upload an image** or enter a **text query** and retrieves the **most relevant images** using cosine similarity between query and image embeddings.
 
 ---

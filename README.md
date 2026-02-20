@@ -1,20 +1,49 @@
-# Image to Image Search for fashion products
+# 🔍 Visual Fashion Search Engine  
 
-## CLIP-Based Image Search (Fine-tuned with Custom Descriptions)
+### Find the Outfit. Even When You Don’t Know Its Name.
 
-Image to Image search and Text to Image search
+Ever seen an outfit on Instagram or social media and thought:
 
-This project implements an **image search engine using a fine-tuned [CLIP](https://openai.com/research/clip)** model. It allows users to **upload an image** or enter a **text query** and retrieves the **most relevant images** using cosine similarity between query and image embeddings.
+> “I need this… but I have no idea what it’s called.”
+
+No brand name.  
+No product ID.  
+No keywords.  
+Just a screenshot.
+
+That’s exactly the problem this project solves.
+
+## 💡 The Problem
+
+Traditional e-commerce search depends heavily on keyword matching and manually tagged metadata.
+
+But fashion is visual.
+
+Users don’t search for:
+> “Asymmetrical ruched bodycon midi dress with sheer overlay.”
+
+They search with vibes:
+
+- “Bollywood-style outfit”
+- “Cozy winter look”
+- “Something like this screenshot”
+- A screenshot from Instagram or Pinterest
+
+Product descriptions are often incomplete, inconsistent, or misaligned with how users express visual intent.
 
 ---
-### Problem Statement
 
-- Traditional e-commerce search systems rely heavily on keyword matching and manually tagged metadata, which works poorly for fashion discovery.
-- Fashion search is visual and intent-driven, but users often cannot describe what they want using precise keywords.
-- Vague and aspirational queries such as “Bollywood-style outfit”, “cozy winter look”, or “something like this screenshot” are common and frequently fail in text-only search pipelines.
-- Product descriptions are often incomplete, inconsistent, or misaligned with how users express visual intent.
+## 🚀 The Solution
 
----
+This project implements a **CLIP-powered visual search engine** that understands fashion the way people experience it — visually.
+
+You can:
+
+- 🖼️ **Upload an image → Find similar products**
+- 📝 **Enter a text query → Retrieve visually relevant items**
+- 🔎 Use **cosine similarity between embeddings** for accurate matching
+
+The model is fine-tuned on custom fashion descriptions to better align visual features with real-world fashion language.
 
 ---
 

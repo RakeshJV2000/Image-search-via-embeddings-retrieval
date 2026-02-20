@@ -1,4 +1,4 @@
-# Image Search for E-commerce products
+# Image to Image Search for fashion products
 
 ## CLIP-Based Image Search (Fine-tuned with Custom Descriptions)
 
